@@ -1,6 +1,6 @@
 # 🔥 sphynxNEOcat - Tienda de Diseños IA Exclusivos
 
-**sphynxNEOcat** es una aplicación E-commerce **Full Stack** completa que simula una tienda de camisetas con diseños generados por Inteligencia Artificial. El proyecto demuestra una arquitectura moderna utilizando React, Node.js, PostgreSQL y Stripe para pagos reales.
+**sphynxNEOcat** es una aplicación E-commerce **Full Stack** completa que simula una tienda de camisetas con diseños generados por Inteligencia Artificial. El proyecto demuestra una arquitectura moderna construida con **React, Node.js y Tailwind CSS**, utilizando **Prisma ORM** para la gestión de datos en **PostgreSQL** y **Stripe** para pagos seguros.
 
 🚀 **Compra ya la tuya!:** [https://delysz.vercel.app/](https://delysz.vercel.app/)
 
