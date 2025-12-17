@@ -18,7 +18,7 @@ const ProductCard = ({ product }: ProductCardProps) => {
   }
 
   const handleBuyNow = () => {
-    fetch('http://localhost:3001/api/checkout', {
+    fetch(`${import.meta.env.VITE_BACKEND_URL}/api/checkout`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
