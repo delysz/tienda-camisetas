@@ -4,7 +4,7 @@ import { useCart } from '../../context/CartContext'
 import CartIcon from './CartIcon'
 
 const Header = () => {
-  const { cart } = useCart()
+  const {  } = useCart()
 
   return (
     <header className="bg-gradient-to-r from-purple-600 to-indigo-600 shadow-lg sticky top-0 z-50">
